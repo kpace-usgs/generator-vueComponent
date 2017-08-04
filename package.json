@@ -1,5 +1,5 @@
 {
-  "name": "generator-cawsc-vue",
+  "name": "generator-vue-component",
   "version": "0.1.0",
   "description": "",
   "homepage": "",
@@ -41,5 +41,5 @@
       "node": true
     }
   },
-  "repository": "kpace-usgs/generator-cawsc-vue"
+  "repository": "kpace-usgs/generator-vueComponent"
 }

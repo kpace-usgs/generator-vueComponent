@@ -1,19 +1,36 @@
-# generator-cawsc-vue [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-cawsc-vue [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > 
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-cawsc-vue using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-cawsc-vue
 ```
 
-Then generate your new project:
+## Clone 'generator-vueComponent' repo 
+Create a local copy 
 
 ```bash
-yo cawsc-vue
+git clone https://github.com/usgs-kpace/generator-vueComponent.git
+```
+
+## Link
+Create a link so you don't have to install generator-vueComponent globally
+
+```bash
+cd generator-vueComponent
+npm install 
+npm link
+```
+
+## Run the generator
+Create a new folder for the generated project and run the generator
+```bash
+md my-new-project
+cd my-new-project
+yo vueComponent
 ```
 
 ## Getting To Know Yeoman
