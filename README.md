@@ -1,4 +1,4 @@
-# generator-cawsc-vue [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-vueComponent [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > 
 
 ## Installation
@@ -45,9 +45,9 @@ yo vueComponent
 MIT © [Kylie Pace]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-cawsc-vue.svg
-[npm-url]: https://npmjs.org/package/generator-cawsc-vue
-[travis-image]: https://travis-ci.org/kpace-usgs/generator-cawsc-vue.svg?branch=master
-[travis-url]: https://travis-ci.org/kpace-usgs/generator-cawsc-vue
-[daviddm-image]: https://david-dm.org/kpace-usgs/generator-cawsc-vue.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/kpace-usgs/generator-cawsc-vue
+[npm-image]: https://badge.fury.io/js/generator-vueComponent.svg
+[npm-url]: https://npmjs.org/package/generator-vueComponent
+[travis-image]: https://travis-ci.org/kpace-usgs/generator-vueComponent.svg?branch=master
+[travis-url]: https://travis-ci.org/kpace-usgs/generator-vueComponent
+[daviddm-image]: https://david-dm.org/kpace-usgs/generator-vueComponent.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/kpace-usgs/generator-vueComponent
